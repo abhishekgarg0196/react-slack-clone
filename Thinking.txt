@@ -1,0 +1,33 @@
+1. Wireframing - Draw rough sketch of what we are actually going to build
+https://www.behance.net/gallery/87726467/Slack-Redesign
+2. Functionality
+  * Sign in 
+  * Sign up
+  * Create a channel
+  * Send message in a channel
+  * Join a channel
+  * Search a channel
+3. Data
+  * Users
+  * channels
+  * messages
+4. UI Components    // react is the UI library for cool frontend -- create UI in a component form 
+         // React follows this philospy of component.. each and every thing in UI is an component .. in the end we can link those componnets together to form a react app
+        // component are re-useable
+  * Slack-component
+  * side-bar
+    * ListOfChannel
+    * ListOfDirectMessages
+  * MainContainer
+    * Header
+    * Message
+    * CreateMessage
+  * SignIn
+  * SignUp
+
+
+
+
+
+
+  
